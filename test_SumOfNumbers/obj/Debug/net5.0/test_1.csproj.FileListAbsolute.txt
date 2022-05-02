@@ -1,0 +1,16 @@
+D:\桌面\临时\code\test_1\bin\Debug\net5.0\test_1.exe
+D:\桌面\临时\code\test_1\bin\Debug\net5.0\test_1.deps.json
+D:\桌面\临时\code\test_1\bin\Debug\net5.0\test_1.runtimeconfig.json
+D:\桌面\临时\code\test_1\bin\Debug\net5.0\test_1.runtimeconfig.dev.json
+D:\桌面\临时\code\test_1\bin\Debug\net5.0\test_1.dll
+D:\桌面\临时\code\test_1\bin\Debug\net5.0\ref\test_1.dll
+D:\桌面\临时\code\test_1\bin\Debug\net5.0\test_1.pdb
+D:\桌面\临时\code\test_1\obj\Debug\net5.0\test_1.csproj.AssemblyReference.cache
+D:\桌面\临时\code\test_1\obj\Debug\net5.0\test_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\临时\code\test_1\obj\Debug\net5.0\test_1.AssemblyInfoInputs.cache
+D:\桌面\临时\code\test_1\obj\Debug\net5.0\test_1.AssemblyInfo.cs
+D:\桌面\临时\code\test_1\obj\Debug\net5.0\test_1.csproj.CoreCompileInputs.cache
+D:\桌面\临时\code\test_1\obj\Debug\net5.0\test_1.dll
+D:\桌面\临时\code\test_1\obj\Debug\net5.0\ref\test_1.dll
+D:\桌面\临时\code\test_1\obj\Debug\net5.0\test_1.pdb
+D:\桌面\临时\code\test_1\obj\Debug\net5.0\test_1.genruntimeconfig.cache
